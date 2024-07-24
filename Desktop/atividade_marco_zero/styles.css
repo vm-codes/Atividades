@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: burlywood;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header, footer {
+    width: 100%;
+    background-color: brown;
+    color: white;
+    padding: 20px 0;
+}
+
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+img {
+    margin: 2px;
+}
+
+.rede-social {
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    margin: 8px;
+}
